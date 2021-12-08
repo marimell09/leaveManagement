@@ -1,0 +1,11 @@
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Domain.dll
+C:\Users\mccesar\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.csprojAssemblyReference.cache
